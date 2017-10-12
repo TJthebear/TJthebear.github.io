@@ -94,6 +94,7 @@ h9{
       background-image: url("bg1.jpg");
       background-repeat: no-repeat;
       background-size: cover;
+      font-family: 'Manuale', serif;
 }
 
 .form-group{
