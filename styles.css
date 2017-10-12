@@ -1,0 +1,124 @@
+.navbar-dark .navbar-brand {
+    color: grey
+}
+
+.jumbotron img { "profile1.png";
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
+
+.jumbotron {
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+        color: grey;
+          font-size: 40px;
+          font-family: inherit;
+          font-weight: bold;
+          text-align: center;
+          text-shadow: 1px 1px 1px black;
+        }
+
+  h2 {
+      color: black;
+      font-size: 120px;
+      font-weight: bold;
+      font-family: 'Nosifer', cursive;
+      text-align: center;
+    }
+
+.row {
+      margin-top: 50px;
+    }
+
+h4 {
+  color: grey;
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+
+}
+h5 {
+      color: grey;
+      font-size: 50px;
+      font-family: inherit;
+      font-weight: bold;
+      text-align: center;
+      text-shadow: 1px 1px 1px black;
+    }
+
+h6 {
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Mogra', cursive;
+    text-shadow: 1px 1px 1px red;
+}
+
+h7 {
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Mogra', cursive;
+    text-shadow: 1px 1px 1px red;
+}
+
+h8 {
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Mogra', cursive;
+    text-shadow: 1px 1px 1px red;
+}
+  .carousel {
+    margin-top:35px;
+    width: 60%;
+    height: 60%;
+  }
+
+h9{
+      color: grey;
+      font-size: 40px;
+      font-family: 'Lobster', cursive;
+      font-weight: bold;
+      text-align: center;
+      text-shadow: 1px 1px 1px red;
+          }
+.table{
+      background-image: url("bg1.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.form-group{
+  background-image: url("bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Lora', serif;
+}
+
+.btn {
+font-family: 'Arvo', serif;
+}
+
+.alert {
+font-family: 'Copse', serif;
+}
+
+
+#navbarTogglerDemo01{
+  font-size: 15x;
+  color:white;
+  text-decoration-color: red;
+  font-family: 'Rye', cursive;
+}
+
+.list-group{
+  font-family: 'Farsan', cursive;
+}
